@@ -7,3 +7,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
   <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
 </picture>
+
+<h2 align="center">Technical Skills :</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java"/><br>
+</div>
