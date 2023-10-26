@@ -11,5 +11,14 @@
 <h2 align="center">Technical Skills :</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java"/><br>
+    <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
 </div>
+
+<h2 align="center">Intermediate/Basic Knowledge :</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+</div>
+
