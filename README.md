@@ -1,16 +1,31 @@
-# 💫 Sobre mim:
-✨ Olá, eu sou o Igor, prazer em conhecer-te!<br>🌱 Eu sou um desenvolvedor Java, mas já trabalhei com demandas em Python e Javascript.<br>⚡ Minha meta é ser um desenvolvedor diferenciado, que quer saber além daquilo que eu desenvolvo.
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Igor 🇧🇷</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorcampos-dev&color=yellow" alt="Profile views" /> </p>
 
+**`Programmer`**
 
-## 🌐 Redes sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/igorcdev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-de-campos/) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100035939770487) 
+✨ Hello, I'm Igor, nice to meet you! 🌱 I am a Java developer, but I have also worked with Python and JavaScript projects. ⚡ My goal is to be a distinguished developer, who wants to know beyond what I develop.
 
-# 💻 Conhecimentos:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B)
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />         
+<img align="left" alt="Xcode" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
+<br />
 
-# 📊 GitHub estátisticas:
-![Igorcampos-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcampos-dev&show_icons=true&theme=radical)
+#
 
-[![](https://visitcount.itsvg.in/api?id=igorcampos-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+![FLeonGDev GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcampos-dev&show_icons=true&theme=radical)
 
+## Contact
+
+<p align="left" style="background:yellow">
+
+<a href="https://www.linkedin.com/in/igor-de-campos/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-igor de campos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/igorcdev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-igorcdev-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100035939770487" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-igor de campos-05122A?style=flat&logo=facebook" alt="facebook"/>
+</a>
+</p>
