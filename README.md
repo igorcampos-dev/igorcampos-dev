@@ -13,7 +13,7 @@
 
 #
 
-![FLeonGDev GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcampos-dev&show_icons=true&theme=radical)
+![FLeonGDev GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcampos-dev&theme=radical)
 
 ## Contact
 
