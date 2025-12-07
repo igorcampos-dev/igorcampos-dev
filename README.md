@@ -13,7 +13,7 @@
 
 #
 
-![FLeonGDev GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcampos-dev&theme=radical)
+[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igorcampos-dev&theme=chartreuse-dark)](https://github.com/igorcampos-dev/)
 
 ## Contact
 
